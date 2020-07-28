@@ -1,4 +1,4 @@
-<img src="https://github.com/alvinqingxing/alvinqingxing/blob/master/Alvin.png" align="right">
+<img src="https://github.com/alvinqingxing/alvinqingxing/blob/master/Alvin.jpg" align="right">
 
 # Hi, I'm Alvin 👋
 
