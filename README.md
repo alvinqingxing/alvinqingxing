@@ -1,3 +1,4 @@
+<img src="Alvin.png" align="right">
 # Hi, I'm Alvin 👋
 
 I am a web developer who trained at [Le Wagon Singapore](https://www.lewagon.com/singapore). My technical stack includes:
