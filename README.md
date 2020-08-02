@@ -4,7 +4,8 @@
 
 I am a web developer who trained at [Le Wagon Singapore](https://www.lewagon.com/singapore). My technical stack includes:
 * Ruby: Ruby on Rails
-* JavaScript: React, Express, Node 
+* JavaScript: React, Express, Node
+* No-code: Bubble.io
 * Python
 * SQL, MongoDB
 * Bootstrap
