@@ -4,11 +4,13 @@
 
 I am a web developer who trained at [Le Wagon Singapore](https://www.lewagon.com/singapore). My technical stack includes:
 * Ruby: Ruby on Rails
-* JavaScript: React, Express, Node
+* JavaScript: React, Express, Node, Vue
 * No-code: Bubble.io
 * Python
-* SQL, MongoDB
+* SQL: SQLite, PostgreSQL
+* NoSQL: Firestore, MongoDB
 * Bootstrap
+* AWS, Firebase, Heroku
 
 I blog on [DEV](https://dev.to/alvinqingxing).
 
