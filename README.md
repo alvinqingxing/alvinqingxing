@@ -10,7 +10,7 @@ I am a web developer who trained at [Le Wagon Singapore](https://www.lewagon.com
 * SQL: SQLite, PostgreSQL
 * NoSQL: Firestore, MongoDB
 * Bootstrap
-* AWS, Firebase, Heroku
+* Cloud: AWS, Firebase, Heroku
 
 I blog on [DEV](https://dev.to/alvinqingxing).
 
