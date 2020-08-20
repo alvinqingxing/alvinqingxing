@@ -3,15 +3,15 @@
 # Hi, I'm Alvin 👋
 
 I am a web developer who trained at [Le Wagon Singapore](https://www.lewagon.com/singapore). My technical stack includes:
-* Ruby: Ruby on Rails
 * JavaScript: React, Express, Node, Vue
-* No-code: Bubble.io
+* Ruby, Ruby on Rails
 * PHP
 * Python
 * SQL: SQLite, PostgreSQL
 * NoSQL: Firestore, MongoDB
-* Bootstrap
-* Cloud: AWS, Firebase, Heroku
+* HTML, CSS, Bootstrap
+* No-code: Bubble.io
+* Cloud: AWS, GCP, Heroku
 
 I blog on [DEV](https://dev.to/alvinqingxing).
 
