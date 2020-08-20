@@ -3,7 +3,7 @@
 # Hi, I'm Alvin 👋
 
 I am a web developer who trained at [Le Wagon Singapore](https://www.lewagon.com/singapore). My technical stack includes:
-* JavaScript: React, Express, Node, Vue
+* JavaScript: Node, Express, React, Vue
 * Ruby, Ruby on Rails
 * PHP
 * Python
