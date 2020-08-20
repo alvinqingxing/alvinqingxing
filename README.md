@@ -6,6 +6,7 @@ I am a web developer who trained at [Le Wagon Singapore](https://www.lewagon.com
 * Ruby: Ruby on Rails
 * JavaScript: React, Express, Node, Vue
 * No-code: Bubble.io
+* PHP
 * Python
 * SQL: SQLite, PostgreSQL
 * NoSQL: Firestore, MongoDB
