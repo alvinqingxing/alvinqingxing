@@ -8,4 +8,4 @@ Before my career transition to technology, I was in academia. I received my M.A.
 
 I taught subjects like Philosophy and Political Science at Pannasastra University of Cambodia, the University of Hawaii at Manoa, and the American University of Nigeria.
 
-My writing portfolio can be found on [Academia.edu](https://manoa-hawaii.academia.edu/AlvinLim). I occasionally [blog on DEV](https://dev.to/alvinqingxing).
+My writing portfolio can be found on [Academia.edu](https://manoa-hawaii.academia.edu/AlvinLim). I occasionally [blog on DEV](https://dev.to/alvinqingxing). My website is at [alvinlim.me](https://alvinlim.me/).
